@@ -1,0 +1,73 @@
+.form-group{
+    position: relative;
+    font-family: Kdam Thmor Pro;
+    left: 550px;
+    top: 200px;
+    font-size: 30px;
+    text-align: left;
+    margin-bottom: 20px;
+    opacity: 0.7;
+}
+#email{
+    position: relative;
+    left: 57px;
+    top:10px;
+    vertical-align: top;
+    font-size: 20px;
+    background-color: rgb(225, 163, 220);
+    border-radius: 10px;
+    opacity: 0.5;
+    border-color: rgb(225, 163, 220) ;
+
+}
+
+#email:hover{
+    opacity: 2;
+}
+#password:hover{
+    opacity: 2;
+}
+#password{
+    vertical-align: top;
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+    background-color: rgb(225, 163, 220);
+    border-radius: 10px;
+    opacity: 0.5;
+    border-color: rgb(225, 163, 220) ;
+}
+#Login-header{
+    position: relative;
+    font-family: Kdam Thmor Pro;
+    
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    opacity: 0.7;
+    cursor: pointer;
+
+}
+#submit-button:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    opacity: 2;
+}
+#submit-button{
+    position: absolute;
+    font-family: Kdam Thmor Pro;
+    left:620px;
+    top:500px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    background-color: rgb(225, 163, 220);
+    border-radius: 10px; 
+    opacity: 0.7;   
+}
+body{
+    background-image: url("sjdalfjldaskjfl3434.webp");
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
