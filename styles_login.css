@@ -68,10 +68,11 @@
     text-align: center;
     margin-bottom: 20px;
     text-decoration: underline;
-    background-color: rgb(253, 251, 253);
+    background-color: rgb(204, 153, 204);
     border-radius: 10px; 
     opacity: 0.7;  
     cursor: pointer; 
+    color: white;
 }
 #background-image{
     background-image: url("sjdalfjldaskjfl3434.webp");
@@ -85,5 +86,17 @@
     filter: blur(10px); 
 }
 #container{
-    
+    height: 500px;
+    width: 500px;
+    background-color: rgb(223, 184, 219);
+    opacity: 0.5;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    border-radius: 50px;
+    font-size: small;
+    text-align: center;
+    font-family: Indie Flower;
+    color: white;
+    opacity: 3;
 }
