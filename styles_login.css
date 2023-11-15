@@ -18,10 +18,10 @@
     
     vertical-align: middle;
     font-size: 20px;
-    background-color: rgb(225, 163, 220);
+    background-color: #ED9B8A;
     border-radius: 10px;
     opacity: 0.5;
-    border-color: rgb(225, 163, 220) ;
+    border-color: #ED9B8A ;
 
 }
 
@@ -36,10 +36,10 @@
     position: relative;
     left: 18px;
     font-size: 20px;
-    background-color: rgb(225, 163, 220);
+    background-color: #ED9B8A;
     border-radius: 10px;
     opacity: 0.5;
-    border-color: rgb(225, 163, 220) ;
+    border-color: #ED9B8A ;
 }
 #Login-header{
     position: relative;
@@ -68,14 +68,14 @@
     text-align: center;
     margin-bottom: 20px;
     text-decoration: underline;
-    background-color: rgb(204, 153, 204);
+    background-color: #ED9B8A;
     border-radius: 10px; 
     opacity: 0.7;  
     cursor: pointer; 
     color: white;
 }
 #background-image{
-    background-image: url("sjdalfjldaskjfl3434.webp");
+    background-image: url("wp8930507.webp");
     background-size: cover;
     background-repeat: no-repeat;  
     background-position: top;
@@ -88,7 +88,7 @@
 #container{
     height: 500px;
     width: 500px;
-    background-color: rgb(223, 184, 219);
+    background-color: #CD8576;
     opacity: 0.5;
     position: absolute;
     left: 500px;
