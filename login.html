@@ -29,8 +29,16 @@
                     <h1>Get your Make My List Account</h1>
                 </div>
 
-                <button id = "submit-button" type="submit">Login/Create Account</button>
+                <button onclick="open_main_page()" id = "submit-button" type="submit">Login/Create Account</button>
             </form>
+
         </div>
+        <script>
+            function open_main_page() {
+                var loginPageUrl = 'main_page.html';
+
+                window.open(loginPageUrl, '_blank');
+                }
+        </script>
     </body>
 </html>
